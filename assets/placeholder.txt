@@ -1,0 +1,10 @@
+This folder is for storing assets like favicon, images, and other static files.
+
+For a complete setup, you can add:
+- favicon.ico
+- apple-touch-icon.png  
+- og-image.jpg
+- logo.png
+- other images and assets
+
+The website will work without these files, but they enhance the user experience. 
